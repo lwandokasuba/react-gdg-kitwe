@@ -1,10 +1,46 @@
+<!-- Title in the center with image on top -->
+<div align="center">
+  <img src="/src/logo.svg" alt="React GDG Kitwe Logo" width="200" height="200">
+    <h1>React GDG Kitwe</h1>
+</div>
+
+<div>
+  <h4>Table of Contents</h4>
+  <ol>
+    <li>
+      <a href="#getting-started-with-create-react-app">Getting Started with Create React App</a>
+      <ul>
+        <li><a href="#requirements">Requirements</a></li>
+        <li><a href="#available-scripts">Available Scripts</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#documenting">Documentation</a>
+    </li>
+  </ol>
+</div>
+
+### Built With
+[![React][React.js]][React-url]
+[![Typescript]][Typescript]
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Using the command 
 
+### `npx create-react-app react-gdg-kitwe --template typescript`
+
+## Requirements
+- Node.js
+- Web Browser
+- Text Editor (VS Code, Sublime Text, Atom, etc)
+- Git
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Install all the dependencies of the project, then run the project with the command below.
 
 ### `npm start`
 
@@ -44,3 +80,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+ <!-- Documenting -->
+ ## Documenting
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript
