@@ -37,6 +37,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Git
 ## Available Scripts
 
+<!-- Clone this repo -->
+Clone this repo using the command below.s
+### `git clone https://github.com/lwandokasuba/react-gdg-kitwe.git`
+
 In the project directory, you can run:
 
 ### `npm install`
